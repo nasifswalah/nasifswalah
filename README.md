@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on Web development
+- 🌱 I'm currently learning with help from Entri elevate and other communities like freecodecamp, mulearn, etc..
