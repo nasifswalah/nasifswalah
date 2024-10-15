@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on Web development
-- 🌱 I'm currently learning with help from Entri elevate and other communities like freecodecamp, mulearn, etc..
+- 🔭 I'm a Full Stack Developer specializing in MERN Stack
+- 🌱 I completed a diploma in Computer Hardware Engineering, where I was first learned about JavaScript. After finishing the diploma, I gained practical experience in full-stack web development through the Entri Elevate program.
